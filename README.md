@@ -37,7 +37,7 @@ MOSEv1: A New Dataset for Video Object Segmentation in Complex Scenes
 - [🏆 Evaluation Server](https://codalab.lisn.upsaclay.fr/competitions/10703)
 
 ## News
-
+- [2026/04/01] **MOSEv2** is supported by [Fiftyone](https://github.com/voxel51/mose-v2) for visualize and downloading. Thanks.
 - [2025/08/07] **MOSEv2** dataset has been released! 🔥🎉🚀✨🎊🌟💫🎈
 - [2023/02/09] MOSEv1 dataset has been released!
 
